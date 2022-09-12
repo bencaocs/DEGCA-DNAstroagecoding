@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-python setup.py install
+git@github.com:caobencs/DEGCA-DNAstroagecoding.git
 ```
 
 ## Requirements
@@ -16,7 +16,7 @@ python setup.py install
 * tensorflow==1.15.4
 
 ```bash
-cd gcn
+cd DEGCA
 python train.py
 ```
 
