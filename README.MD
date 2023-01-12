@@ -19,7 +19,7 @@ git@github.com:caobencs/DEGCA-DNAstroagecoding.git
 more detail in requirements.yaml 
 please use 
 ```bash
-conda env create -f environment.yaml 
+conda env create -f environments.yaml 
 ```
 
 Since model training is time consuming, we provide a trained model that you can try for the first time directly by running dnacoding.py with data.
