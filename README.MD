@@ -11,11 +11,16 @@ git@github.com:caobencs/DEGCA-DNAstroagecoding.git
 * networkx
 ## recommend
 * networkx==2.2
-* scipy==1.1.0
-* setuptools==40.6.3
-* numpy==1.15.4
-* tensorflow==1.15.4
+* scipy==1.3.0
+* setuptools==59.6.0
+* numpy==1.18.5
+* tensorflow-gpu==1.13.1
 
+more detail in requirements.yaml 
+please use 
+```bash
+conda env create -f environment.yaml 
+```
 
 Since model training is time consuming, we provide a trained model that you can try for the first time directly by running dnacoding.py with data.
 ```bash
