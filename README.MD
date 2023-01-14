@@ -37,3 +37,5 @@ If you're interested in preprocessing DNA sequences into graphs, see the image b
 
 This is a tensorflow implementation of solving the DNA storage coding problem using graph convolutional networks and self-attention. The graph convolutional networks implementation is based on [GCN](https://github.com/tkipf/gcn) (MIT License).
 
+We provide a matlab script to process the set of DNA sequences into DNA coding diagram in floder Preprocessing, and test it on matlabR2020b. Other lower versions may require very individual function changes.
+
